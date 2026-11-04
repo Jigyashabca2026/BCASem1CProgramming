@@ -9,4 +9,10 @@ c=a+b;
 printf("c=%d",c);
 getch();
 }
-  
+
+c
+/*
+  output:
+Enter the number:5 10
+  c=15
+  */
